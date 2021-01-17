@@ -1,0 +1,17 @@
+//init git
+//Initialized empty Git repository in /Web_Programming/gitExample/.git/
+git init
+
+//git status
+git status
+
+//add files to git to the staging area
+git add <filename>
+or
+git add .  //all files in the current directory
+
+//commit file under version control
+git commit -m "complete charpter1" // -m = message
+
+//check content
+git log
